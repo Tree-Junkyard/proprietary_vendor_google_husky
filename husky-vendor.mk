@@ -85,7 +85,6 @@ PRODUCT_PACKAGES += \
     ConnMO \
     DCMO \
     DMService \
-    DeviceIntelligenceNetworkPrebuilt \
     DevicePersonalizationPrebuiltPixel2023 \
     DiagMon \
     EuiccGoogle \
@@ -106,7 +105,6 @@ PRODUCT_PACKAGES += \
     LLKAgent \
     MyVerizonServices \
     OemRilService \
-    PixelDisplayService \
     PixelQualifiedNetworksService \
     RilConfigService \
     ShannonIms \
